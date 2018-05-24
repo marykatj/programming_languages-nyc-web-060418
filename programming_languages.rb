@@ -11,3 +11,7 @@ def reformat_languages(languages)
   end
   new_hash
 end
+
+
+# need to add an if conditional to get JS to run
+# JS has two styles
